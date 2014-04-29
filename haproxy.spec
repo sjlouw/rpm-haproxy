@@ -95,10 +95,10 @@ fi
 %attr(0755,haproxy,haproxy) %{_sharedstatedir}/haproxy
 
 %changelog
-* Tue Apr 29 2014
+* Tue Apr 29 2014 sjlouw
 - updated to 1.5.0-dev24
 
-* Wed Apr 23 2014
+* Wed Apr 23 2014 sjlouw
 - updated to 1.5.0-dev23
 
 * Fri Mar 05 2014 Ilya Sukhanov <ilya@sukhanov.net>
